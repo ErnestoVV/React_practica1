@@ -1,0 +1,10 @@
+.Body{
+    background-color: rgba(144, 142, 156, 0.842);
+    min-height: 57vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    font-size: calc(10px + 3vmin);
+    color: rgb(0, 0, 0);
+}
