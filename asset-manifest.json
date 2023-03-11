@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React_practica1/static/css/main.4deb4f1c.css",
+    "main.js": "/React_practica1/static/js/main.c6ddd6d3.js",
+    "static/js/787.fa6cd82a.chunk.js": "/React_practica1/static/js/787.fa6cd82a.chunk.js",
+    "static/media/banco.JPG": "/React_practica1/static/media/banco.31b163726b69fd125eaa.JPG",
+    "index.html": "/React_practica1/index.html",
+    "main.4deb4f1c.css.map": "/React_practica1/static/css/main.4deb4f1c.css.map",
+    "main.c6ddd6d3.js.map": "/React_practica1/static/js/main.c6ddd6d3.js.map",
+    "787.fa6cd82a.chunk.js.map": "/React_practica1/static/js/787.fa6cd82a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4deb4f1c.css",
+    "static/js/main.c6ddd6d3.js"
+  ]
+}
